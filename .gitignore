@@ -1,0 +1,13 @@
+# 编译产物
+bin/
+*.exe
+*.exe~
+
+# 运行时数据（配置、任务进度）
+data/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
